@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="rollDice">Roll Dice!</string>
+    <string name="iv_dice">Image shows face of six sided dice</string>
+</resources>
